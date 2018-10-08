@@ -12,8 +12,8 @@ var TESTNET = false
 // API KEYS GO HERE
 
 var blocktrail_opts = {
-    apiKey: "wtjm7fAdp6otNZ98",
-    apiSecret: "MdHHiESRtdWd1uTlr8ovRwKJSqyrJLjh",
+    apiKey: "7e826668eaddf123d615875d000169c6286a3bb3",
+    apiSecret: "3c4bcf2bd6ec4447d341a421312fea65c1505721",
     network: "BTC",
     testnet: TESTNET
 }
