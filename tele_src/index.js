@@ -12,27 +12,27 @@ var TESTNET = false
 // API KEYS GO HERE
 
 var blocktrail_opts = {
-    apiKey: "YOUR_API_KEY",
-    apiSecret: "YOUR_API_SECRET",
+    apiKey: "wtjm7fAdp6otNZ98",
+    apiSecret: "MdHHiESRtdWd1uTlr8ovRwKJSqyrJLjh",
     network: "BTC",
     testnet: TESTNET
 }
 
-var WALLET_NAME = 'YOUR_WALLET_NAME'
-var WALLET_PASS = 'YOUR_WALLET_PASSWORD'
+var WALLET_NAME = 'poliku102@gmail.com'
+var WALLET_PASS = 'Raufka100500'
 
-var TELE_TOKEN = 'YOUR_TELEGRAM_TOKEN'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
+var TELE_TOKEN = '490414993:AAGRa2ZDCwwCC4iE-zWlwykkmQ0yahTxh3I'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
 
-var BOT_USERNAME = 'YOUR_BOT_USERNAME' // your bot's username (without the @)
+var BOT_USERNAME = 'sushi4ubot' // your bot's username (without the @)
 
 var HEROKU_URL = 'https://YOUR_HEROKU_APP_NAME.herokuapp.com:443';
 
 // BOT PARAMETERS
 // these need to be filled in with user_ids (as integers)
 
-var ADMIN_LIST = [];
-var APPROVAL_ADMIN_LIST = [];
-var DEV_ADMIN_LIST = []; 
+var ADMIN_LIST = [114993564];
+var APPROVAL_ADMIN_LIST = [114993564];
+var DEV_ADMIN_LIST = [114993564]; 
 
 // these are specific to the type of scheme you want to run
 var REFERRAL_BONUSES = [0.11, 0.05, 0.01];
